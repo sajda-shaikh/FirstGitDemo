@@ -54,6 +54,9 @@ public class AddPlace {
 		
 		Assert.assertEquals(ActualAddress, NewAddress);
 		System.out.println("Address updated with the new address");
+		System.out.println("Address updated with the new address2");
+		System.out.println("Address updated with the new address3");
+
 
 	}
 
